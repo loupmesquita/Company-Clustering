@@ -4,7 +4,7 @@
 A company has gathered data about its customers and would like to identify similar clients, in order to propose relevant products to new clients, based on their
 features. This can be represented as a clustering problem. The data are stored in data.npy. They are 4 dimensional.
 <br>
-We are going to choose : <br>
+We are going to choose : <br> <br>
 — two clustering methods <br> <br>
 — two heuristics to choose a relevant number of clusters,<br> <br>
 and perform different clusterings of this dataset (overall, 2 × 2 = 4 methods). We will use a different metric for each clustering method. We could for
