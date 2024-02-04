@@ -2,7 +2,7 @@
 ## Company Clustering Customers
 
 A company has gathered data about its customers and would like to identify similar clients, in order to propose relevant products to new clients, based on their
-features. This can be represented as a clustering problem. The data are stored in exercise_3/data.npy. They are 4 dimensional.
+features. This can be represented as a clustering problem. The data are stored in data.npy. They are 4 dimensional.
 <br>
 We are going to choose : <br>
 — two clustering methods <br> <br>
